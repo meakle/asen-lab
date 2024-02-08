@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import siteConfig from '../data/site-config';
+import FirstPage from '../components/FirstPage/index.vue';
+---
+
+<BaseLayout
+    description={siteConfig.description}
+    isHomepage={true}
+>
+    <FirstPage slot='firstPage' client:load/>
+</BaseLayout>
