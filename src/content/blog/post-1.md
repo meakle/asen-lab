@@ -1,7 +1,6 @@
 ---
 title: 「2021」收获比失去的更多
-excerpt: test
-publishDate: 'Aug 5 2023'
+publishDate: 'Dec 31 2021'
 ---
 
 说来挺有意思，如果让我在 2020 年的年末展望未来，我一定想不到今年会是如此的特别。
