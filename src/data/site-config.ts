@@ -51,13 +51,13 @@ const siteConfig: SiteConfig = {
         //     href: '/projects'
         // },
         {
-            text: '博客',
+            text: '生活',
             href: '/blog'
         },
-        // {
-        //     text: '想法',
-        //     href: '/live'
-        // },
+        {
+            text: '技术',
+            href: '/teachBlog'
+        },
         // {
         //     text: '记录',
         //     href: '/record'
