@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/「2021」收获比失去的多.md",
+                "file": "blog/「2023」找自己.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/「2021」收获比失去的多.md",
+                "file": "blog/「2023」找自己.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/「2021」收获比失去的多.md",
+                "file": "blog/「2023」找自己.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/「2021」收获比失去的多.md"
+                "file": "blog/「2023」找自己.md"
               }
             }
           }
@@ -148,12 +148,16 @@
   },
   "active": "538a1f79207957ef",
   "lastOpenFiles": [
+    "blog/「2022」起风了.md",
+    "blog/「2023」找自己.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "table-gaming.jpeg",
+    "blog/「2021」收获比失去的多.md",
     "teachBlog/Naive UI 使用 Typescript 的一个小技巧.md",
     "teachBlog/你好.md",
     "blog/Naive UI 使用 Typescript 的一个小技巧.md",
     "teachBlog",
-    "blog/「2021」收获比失去的多.md",
-    "blog/「2022」起风了.md",
     "projects/project-1.md",
     "pages/about.md"
   ]
