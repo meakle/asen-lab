@@ -14,5 +14,6 @@ export default defineConfig({
             enabled: true
         }
     }),
+    output: 'hybrid',
     integrations: [mdx(), sitemap(), tailwind({ applyBaseStyles: false }), vue()]
 });
